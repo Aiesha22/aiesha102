@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historical Places in India</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Historical Places in India</h1>
+        <p>Explore India's rich cultural heritage</p>
+    </header>
+
+    <main>
+        <section class="place">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Taj_Mahal_%28Edited%29.jpg" alt="Taj Mahal">
+            <div class="description">
+                <h2>Taj Mahal</h2>
+                <p>Located in Agra, the Taj Mahal is one of the Seven Wonders of the World, built by Mughal emperor Shah J
+# aiesha102
+historicalplaces in india
